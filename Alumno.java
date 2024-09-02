@@ -1,6 +1,7 @@
 class Alumno {
 	private double calificacion;
 	private String nombre;
+	private String apellidos;
 
 	public void setCalificacion(double calificacion){
 		this.calificacion = calificacion;
